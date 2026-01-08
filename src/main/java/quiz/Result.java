@@ -1,3 +1,5 @@
+package quiz;
+
 public class Result {
 
     public static void showResult(int score, int total) {

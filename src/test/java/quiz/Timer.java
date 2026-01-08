@@ -1,3 +1,4 @@
+
 public class Timer {
 
     public static void waitTime(int seconds) {
