@@ -1,5 +1,7 @@
 package quiz;
-/**
+/*
+ * Main class for Online Quiz
+ */
 public class Main {
 
     public static void main(String[] args) {
