@@ -1,6 +1,6 @@
 package quiz;
 /*
- * Main class for Online Quiz pls commit
+ * Main class for Online Quiz  commit
  */
 public class Main {
 
